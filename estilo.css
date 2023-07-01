@@ -10,3 +10,42 @@ body{
 .alinhamento{
     margin:auto;
 }
+a{
+
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: #c0c0c0;
+
+}
+
+a:houver{
+    color: black;
+}
+
+.quemsomos{
+    margin: auto;
+    width: 600px;
+    height: 600px;
+    border: 2;
+    text-decoration: 10px;
+}
+
+.branco{
+    text-decoration-color: white;
+}
+
+#letras{
+    color: white;
+}
+
+.ceo{
+    text-align: center;
+}
+.rodape{
+    font-size: 20px;
+}
